@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-01-25T18:46:21+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">How to Build a Secure Mobile App with DevSecOps Practices</title><link href="http://localhost:4000/jekyll/update/2025/01/25/secure-mobile-apps-with-devsecops.html" rel="alternate" type="text/html" title="How to Build a Secure Mobile App with DevSecOps Practices" /><published>2025-01-25T18:02:35+02:00</published><updated>2025-01-25T18:02:35+02:00</updated><id>http://localhost:4000/jekyll/update/2025/01/25/secure-mobile-apps-with-devsecops</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/01/25/secure-mobile-apps-with-devsecops.html"><![CDATA[<p>In the world of mobile development, security is more important than ever. DevSecOps practices help integrate security into your development and deployment pipelines, ensuring that your mobile applications are secure from the start.</p>
+
+<h3 id="devsecops-tips">DevSecOps Tips:</h3>
+<ol>
+  <li><strong>Use Static Analysis Tools</strong></li>
+  <li><strong>Automate Security Testing</strong></li>
+  <li><strong>Implement Continuous Monitoring</strong></li>
+</ol>
+
+<p>Stay tuned for more tips on securing your mobile apps!</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[In the world of mobile development, security is more important than ever. DevSecOps practices help integrate security into your development and deployment pipelines, ensuring that your mobile applications are secure from the start.]]></summary></entry><entry><title type="html">A Beginner’s Guide to GitHub Actions for CI/CD</title><link href="http://localhost:4000/jekyll/update/2025/01/25/beginners-guide-to-github-actions.html" rel="alternate" type="text/html" title="A Beginner’s Guide to GitHub Actions for CI/CD" /><published>2025-01-25T18:02:35+02:00</published><updated>2025-01-25T18:02:35+02:00</updated><id>http://localhost:4000/jekyll/update/2025/01/25/beginners-guide-to-github-actions</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/01/25/beginners-guide-to-github-actions.html"><![CDATA[<p>GitHub Actions is an incredibly powerful tool for automating your workflows. In this post, I’ll introduce you to GitHub Actions and show you how to set up a basic Continuous Integration (CI) pipeline to automatically build and test your code every time you push a change.</p>
+
+<h3 id="key-concepts">Key Concepts:</h3>
+<ol>
+  <li><strong>Workflows</strong></li>
+  <li><strong>Jobs</strong></li>
+  <li><strong>Actions</strong></li>
+</ol>
+
+<p>Let’s automate some processes!</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[GitHub Actions is an incredibly powerful tool for automating your workflows. In this post, I’ll introduce you to GitHub Actions and show you how to set up a basic Continuous Integration (CI) pipeline to automatically build and test your code every time you push a change.]]></summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2025/01/25/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2025-01-25T18:02:35+02:00</published><updated>2025-01-25T18:02:35+02:00</updated><id>http://localhost:4000/jekyll/update/2025/01/25/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/01/25/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+
+<p>Jekyll requires blog post files to be named according to the following format:</p>
+
+<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
+
+<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
+
+<p>Jekyll also offers powerful support for code snippets:</p>
+
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
+  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
+<span class="k">end</span>
+<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
+<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
+
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Why Cybersecurity is Critical in Today’s World</title><link href="http://localhost:4000/jekyll/update/2025/01/25/why-cybersecurity-is-critical.html" rel="alternate" type="text/html" title="Why Cybersecurity is Critical in Today’s World" /><published>2025-01-25T18:02:35+02:00</published><updated>2025-01-25T18:02:35+02:00</updated><id>http://localhost:4000/jekyll/update/2025/01/25/why-cybersecurity-is-critical</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/01/25/why-cybersecurity-is-critical.html"><![CDATA[<p>Cybersecurity plays a fundamental role in the safety of our online activities. With more people relying on the internet for business, education, and entertainment, securing our systems from threats is essential. This post discusses why cybersecurity is critical and the potential risks we face every day.</p>
+
+<h3 id="key-reasons">Key Reasons:</h3>
+<ol>
+  <li><strong>Protection of Personal Data</strong></li>
+  <li><strong>Security of Financial Transactions</strong></li>
+  <li><strong>Preventing Cyberattacks and Data Breaches</strong></li>
+</ol>
+
+<p>Stay safe online!</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Cybersecurity plays a fundamental role in the safety of our online activities. With more people relying on the internet for business, education, and entertainment, securing our systems from threats is essential. This post discusses why cybersecurity is critical and the potential risks we face every day.]]></summary></entry><entry><title type="html">Getting Started with Docker for DevSecOps</title><link href="http://localhost:4000/jekyll/update/2025/01/25/getting-started-with-docker.html" rel="alternate" type="text/html" title="Getting Started with Docker for DevSecOps" /><published>2025-01-25T18:02:35+02:00</published><updated>2025-01-25T18:02:35+02:00</updated><id>http://localhost:4000/jekyll/update/2025/01/25/getting-started-with-docker</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2025/01/25/getting-started-with-docker.html"><![CDATA[<p>Docker is an essential tool for developers and DevSecOps engineers. In this post, I’ll walk you through the basics of Docker and how it can improve your security automation processes.</p>
+
+<h3 id="steps-to-get-started">Steps to Get Started:</h3>
+<ol>
+  <li><strong>Install Docker</strong></li>
+  <li><strong>Create Your First Container</strong></li>
+  <li><strong>Integrate Docker into CI/CD Pipelines</strong></li>
+</ol>
+
+<p>Docker simplifies the process of developing, testing, and securing applications. Let’s dive deeper into how it can improve your DevSecOps workflow.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[Docker is an essential tool for developers and DevSecOps engineers. In this post, I’ll walk you through the basics of Docker and how it can improve your security automation processes.]]></summary></entry><entry><title type="html">Welcome to My Jekyll Site</title><link href="http://localhost:4000/2025/01/25/welcome-to-my-jekyll-site.html" rel="alternate" type="text/html" title="Welcome to My Jekyll Site" /><published>2025-01-25T00:00:00+02:00</published><updated>2025-01-25T00:00:00+02:00</updated><id>http://localhost:4000/2025/01/25/welcome-to-my-jekyll-site</id><content type="html" xml:base="http://localhost:4000/2025/01/25/welcome-to-my-jekyll-site.html"><![CDATA[<p>Welcome to my Jekyll-powered site! Here, I’ll be sharing my thoughts on cybersecurity, personal projects, and other interests. Stay tuned for updates and enjoy the content!</p>
+
+<ul>
+  <li>Yara Chahine</li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Welcome to my Jekyll-powered site! Here, I’ll be sharing my thoughts on cybersecurity, personal projects, and other interests. Stay tuned for updates and enjoy the content!]]></summary></entry></feed>
